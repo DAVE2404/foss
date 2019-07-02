@@ -14,6 +14,12 @@
 * 오픈소스 서비스 환경 구축하기
 
 
+### 2일차 
+* postgreSQL / PostGIS
+* GeoServer
+### 3일차 
+* QGIS
+* 망고 시스템
 
 
 

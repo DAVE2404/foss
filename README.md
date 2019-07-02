@@ -15,6 +15,7 @@
 
 
 ### 2일차 
+* postgreSQL / PostGIS
 
 
 

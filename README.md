@@ -15,7 +15,8 @@
 
 
 ### 2일차 
-* postgreSQL / PostGIS
+* postgreSQL 
+* PostGIS
 * GeoServer
 ### 3일차 
 * QGIS
